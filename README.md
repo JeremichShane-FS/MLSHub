@@ -1,4 +1,4 @@
-\*\*\*\*# 💻 Project & Portfolio II
+# 💻 Project & Portfolio II
 
 # Project Name: WDP2 Portfolio Project
 
