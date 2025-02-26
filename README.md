@@ -1,7 +1,5 @@
 # 💻 Project & Portfolio II
 
-# Project Name: WDP2 Portfolio Project
-
 ### Shane Jeremich
 
 📪 &nbsp; scjeremich@student.fullsail.edu
